@@ -30,7 +30,7 @@ public class DevOpsController {
         LocalDateTime myObj = LocalDateTime.now();
         System.out.println(myObj);
 
-        return "DevOps Docker Info: "+ myObj;
+        return "DevOps Docker Info (True): "+ myObj;
     }
 
 }
