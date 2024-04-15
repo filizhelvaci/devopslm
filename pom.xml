@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.flz</groupId>
-    <artifactId>devopslm_pipeline</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>devopslm_pipeline</name>
-    <description>devopslm_pipeline</description>
+    <artifactId>devopslm</artifactId>
+    <version>0.0.1.v1</version>
+    <name>devopslm</name>
+    <description>devopslm</description>
     <properties>
         <java.version>17</java.version>
     </properties>
